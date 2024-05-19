@@ -17,7 +17,6 @@ Visualization: Provides interactive visualizations to aid in understanding the m
 Ensure you have Python installed on your system along with the following packages:
 
 Pandas
-NumPy
 Scikit-learn
 Matplotlib
 Seaborn
@@ -25,8 +24,8 @@ Seaborn
 **Installation**
 Clone the repository and navigate to the project directory:
 
-git clone https://github.com/yourusername/predictive-sales-analysis-tool.git
-cd predictive-sales-analysis-tool
+git clone [https://github.com/yourusername/predictive-sales-analysis-tool.git](https://github.com/sharathprodev/AI_ML_Projects/edit/main/2_Multiple_Linear_Regression_Profit_Predictor/)
+
 Install the required Python packages:
 
 pip install -r requirements.txt
